@@ -19,9 +19,12 @@ A simple JavaFX notepad application built with Java and Maven.
 src/main/java/com/mynotepad/mynotepad/
  ├── Launcher.java
  └── TheNotepad.java
+```
 
 # How to Run
 
-Open the project in IntelliJ IDEA
-Load Maven dependencies
-Run Launcher.java
+1.Open the project in IntelliJ IDEA
+2.Load Maven dependencies
+3.Run Launcher.java
+
+
