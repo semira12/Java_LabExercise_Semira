@@ -17,18 +17,6 @@ This project simulates a simple poker game with card dealing, hand evaluation, a
 - Winner comparison
 - Console-based gameplay
 
----
-
-# Technologies Used
-
-| Technology | Purpose |
-|---|---|
-| Java | Main programming language |
-| OOP | Program structure |
-| Collections | Managing cards and players |
-| Enums | Card suits and ranks |
-
----
 
 # Class Descriptions
 
