@@ -23,8 +23,8 @@ src/main/java/com/mynotepad/mynotepad/
 
 # How to Run
 
-1.Open the project in IntelliJ IDEA
-2.Load Maven dependencies
-3.Run Launcher.java
+ 1. Open the project in IntelliJ IDEA
+ 3. Load Maven dependencies
+ 4. Run Launcher.java
 
 
