@@ -88,18 +88,6 @@ Responsibilities:
 
 ---
 
-# Concepts Practiced
-
-- Object-Oriented Programming
-- Encapsulation
-- Composition
-- Collections
-- Enums
-- Game Logic
-- Algorithm Design
-
----
-
 # How to Run
 
 1. Open the project in IntelliJ IDEA or any Java IDE
