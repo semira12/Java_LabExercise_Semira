@@ -1,4 +1,4 @@
-# Java_LabExercise_Semira
+
 # Java Poker Game
 
 A console-based Poker Game developed in Java using object-oriented programming principles.  
